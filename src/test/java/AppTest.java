@@ -11,6 +11,6 @@ public class AppTest {
     public void addTwoTest() {
         app = new App();
         int ans = app.addTwo(1, 2);
-        assertEquals(ans, 3);
+        assertEquals(ans, 4);
     }
 }
